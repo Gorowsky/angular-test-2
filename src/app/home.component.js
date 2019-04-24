@@ -1,6 +1,4 @@
-class HomeComponentCtrl {
-  
-}
+class HomeComponentCtrl { }
 
 const HomeComponent = {
   templateUrl: './home.component.html',
