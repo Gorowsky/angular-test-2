@@ -1,4 +1,5 @@
 import angular from 'angular';
+import './styles.css';
 import './src/index';
 
 const requires = [
